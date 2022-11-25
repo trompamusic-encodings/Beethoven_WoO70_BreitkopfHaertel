@@ -39,29 +39,12 @@
                      <rend xml:id="rend-0000000423485032" halign="right" valign="middle" fontsize="100.00%">Serie 17. <abbr xml:id="abbr-0000000045878681" type="superscription">No.</abbr> 168.<lb xml:id="lb-0000000931946807" />
                      </rend>
                      <rend xml:id="rend-0000000027109546" halign="center" valign="middle" fontweight="bold">
-                        <rend xml:id="rend-0000002081006402" fontsize="200.00%">SECHS VARIATIONEN</rend>
-                        <rend xml:id="rend-0000002081006948" fontsize="20.00%">
-                           <lb xml:id="lb-0000001190255347" /> <lb xml:id="lb-0000001438721318" />
-                        </rend>
-                        <rend xml:id="rend-0000001223265768" halign="center" valign="middle" fontsize="115.00%">
-                           <lb xml:id="lb-0000000931946801" />über das Duett: „Nel cor più non mi sento“</rend>
-                        <rend xml:id="rend-0000001839060298" fontsize="20.00%">
-                           <lb xml:id="lb-0000000354297215" /> <lb xml:id="lb-0000000013709151" />
-                        </rend>
-                        <rend xml:id="rend-0000000628950628" halign="center" valign="middle" fontsize="100.00%">
-                           <lb xml:id="lb-0000000858694262" />aus der Oper La Molinara von Paisiello</rend>
-                        <rend xml:id="rend-0000001964321517" fontsize="20.00%">
-                           <lb xml:id="lb-0000001085630888" /> <lb xml:id="lb-0000001605075317" />
-                        </rend>
-                        <rend xml:id="rend-0000001958762852" halign="center" valign="middle" fontsize="115.00%">
-                           <lb xml:id="lb-0000000002945054" />für das Pianoforte</rend>
-                        <rend xml:id="rend-0000001631646837" halign="center" valign="middle" fontsize="100.00%">
-                           <lb xml:id="lb-0000000495749949" />von</rend>
-                        <rend xml:id="rend-0000001223265771" halign="center" valign="middle" fontsize="200.00%">
-                           <lb xml:id="lb-0000000931946442" />L.<rend xml:id="rend-0000000420181481" fontsize="130.00%"> VAN </rend> BEETHOVEN.<lb xml:id="lb-0000000931946802" />
-                        </rend>
-                        <rend xml:id="rend-0000002081006989" fontsize="20.00%">
-                           <lb xml:id="lb-0000000072357948" /> <lb xml:id="lb-0000000933077864" />
+                        <rend xml:id="rend-0000002081006402" fontsize="200.00%">SECHS VARIATIONEN<lb /></rend>
+                        <rend xml:id="rend-0000001223265768" halign="center" valign="middle" fontsize="115.00%">über das Duett: „Nel cor più non mi sento“<lb/></rend>
+                        <rend xml:id="rend-0000000628950628" halign="center" valign="middle" fontsize="100.00%">aus der Oper La Molinara von Paisiello<lb /></rend>
+                        <rend xml:id="rend-0000001958762852" halign="center" valign="middle" fontsize="115.00%">für das Pianoforte<lb /></rend>
+                        <rend xml:id="rend-0000001631646837" halign="center" valign="middle" fontsize="100.00%">von<lb /></rend>
+                        <rend xml:id="rend-0000001223265771" halign="center" valign="middle" fontsize="200.00%">L.<rend xml:id="rend-0000000420181481" fontsize="130.00%"> VAN </rend> BEETHOVEN.<lb xml:id="lb-0000000931946802" />
                         </rend>
                      </rend>
                   </pgHead>

@@ -32,7 +32,7 @@
       <body>
          <mdiv xml:id="WoO-70">
             <score xml:id="score-0000001286820719">
-               <scoreDef xml:id="scoredef-0000001058976644" key.mode="major" key.sig="1s" meter.count="6" meter.unit="8">
+               <scoreDef xml:id="scoredef-0000001058976644" key.mode="major" key.sig="1s" meter.count="6" meter.unit="8" midi.bpm="104">
                   <pgHead xml:id="pghead-0000002045266725">
                      <rend xml:id="rend-0000000423485031" halign="left" valign="middle" fontsize="100.00%">Beethovens Werke.</rend>
                      <rend xml:id="rend-0000000423485032" halign="right" valign="middle" fontsize="100.00%">Serie 17. <abbr xml:id="abbr-0000000045878681" type="superscription">No.</abbr> 168.</rend>
